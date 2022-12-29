@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pl">
 
 <head>
   <meta charset="utf-8" />
@@ -42,7 +42,7 @@
   <meta property="og:description" content="Now UI Dashboard PRO is a beautiful Bootstrap 4 admin dashboard with a large number of components, designed to look beautiful, clean and organized. If you are looking for a tool to manage dates about your business, this dashboard is the thing for you." />
   <meta property="og:site_name" content="Creative Tim" />
   <title>
-    Now UI Dashboard by Creative Tim
+    Organize You Work
   </title>
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
   <!--     Fonts and icons     -->
@@ -119,10 +119,10 @@
                             <div class="clearfix"></div>
                         </a>
                     </li>
-        
-                    
-        
-                    
+
+
+
+
                     <li class="button-container">
                         <a href="https://www.creative-tim.com/product/now-ui-dashboard-laravel" target="_blank" class="btn btn-primary btn-block btn-round">Download Now</a>
                         <a href="https://now-ui-dashboard-laravel.creative-tim.com/docs/getting-started/laravel-setup.html" target="_blank" class="btn btn-default btn-block btn-round">
@@ -131,10 +131,10 @@
                         </a>
                         <a href="https://www.creative-tim.com/product/now-ui-dashboard-pro-laravel?ref=nud-free-upgrade-live" target="_blank" class="btn btn-primary btn-block btn-round"> <i class="now-ui-icons arrows-1_cloud-download-93"></i> Upgrade to PRO</a>
                     </li>
-                    
-        
+
+
                     <li class="header-title">Thank you for 95 shares!</li>
-        
+
                     <li class="button-container text-center">
                         <button id="twitter" class="btn btn-round btn-info sharrre"><i class="fab fa-twitter"></i> · 45</button>
                         <button id="facebook" class="btn btn-round btn-info sharrre"><i class="fab fa-facebook-f"></i> · 50</button>
